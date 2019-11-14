@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-master-class-homework",
+  "private": false,
+  "version": "1.0.0",
+  "description": "Node.js master class homework assignments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Calexxxxx/nodejs-master-class-homework.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Pascal Meers <pasm28@hotmail.nl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Calexxxxx/nodejs-master-class-homework/issues"
+  },
+  "homepage": "https://github.com/Calexxxxx/nodejs-master-class-homework#readme"
+}
